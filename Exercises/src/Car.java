@@ -1,11 +1,11 @@
 
 public class Car {
 	
-	String model;
+	private String model;
 	
-	String year;
+	private String year;
 	
-	double price;
+	private double price;
 	
 	Car(String model, String year, double price){
 		this.model = model;
